@@ -1,0 +1,1 @@
+Refer to the file __lancaster_masters_dissertation_proposal_template.pdf__ to see what the complied PDF looks like.
